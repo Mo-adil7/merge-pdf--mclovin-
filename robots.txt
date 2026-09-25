@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mo-adil7.github.io/merge-pdf--mclovin-/sitemap.xml
