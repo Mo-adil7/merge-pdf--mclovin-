@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url>
-    <loc>https://mo-adil7.github.io/merge-pdf--mclovin-/</loc>
-  </url>
+  <url><loc>https://mo-adil7.github.io/merge-pdf--mclovin-/</loc></url>
+  <url><loc>https://mo-adil7.github.io/merge-pdf--mclovin-/split-pdf/</loc></url>
+  <url><loc>https://mo-adil7.github.io/merge-pdf--mclovin-/compress-pdf/</loc></url>
+  <url><loc>https://mo-adil7.github.io/merge-pdf--mclovin-/pdf-to-jpg/</loc></url>
+  <url><loc>https://mo-adil7.github.io/merge-pdf--mclovin-/jpg-to-pdf/</loc></url>
 </urlset>
